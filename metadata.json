@@ -1,0 +1,8 @@
+{
+  "name": "MED Rx Dental Centre",
+  "description": "Modern Dentistry. Gentle Care. Confident Smiles. Multi-specialty dental clinic in Nagarbhavi, Bengaluru offering appointment booking, treatment guides, and clinic administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
